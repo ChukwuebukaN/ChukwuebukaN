@@ -1,7 +1,7 @@
 # Hey There!
 - 👋 Hi, I’m Chukwuebuka, a Software Engineer.
 - 👀 I’m interested in Full Stack Product Development and Scaling.
-- 🌱 I’m currently Product Scaling.
+- 🌱 I’m currently learning The Business of Tech.
 - 💞️ I’m looking to collaborate on all things Technology and Product Development.
 - 📫 How to reach me - linkedIn.com/in/chukwuebuka-nwoba/
 
