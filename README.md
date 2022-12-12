@@ -1,8 +1,8 @@
 # Hey There!
 - 👋 Hi, I’m Chukwuebuka, a Software Engineer.
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on all things Tech Product Development.
+- 👀 I’m interested in Full Stack Product Development and Scaling.
+- 🌱 I’m currently Product Scaling.
+- 💞️ I’m looking to collaborate on all things Technology and Product Development.
 - 📫 How to reach me - linkedIn.com/in/chukwuebuka-nwoba/
 
 <!---
