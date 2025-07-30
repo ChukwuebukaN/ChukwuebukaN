@@ -1,5 +1,5 @@
 # Hey There!
-- 👋 Hi, I’m Chukwuebuka, a Full-Stack Sofwtware Engineer.
+- 👋 Hi, I’m Chukwuebuka, a Sofwtware Solutions Architect.
 - 👨🏽‍💻 Visit my portfolio at [chukwuebukan.github.io/portfolio/](https://chukwuebukan.github.io/portfolio/) 
 - 👀 I’m interested in Backend Lead and DevOps roles.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
